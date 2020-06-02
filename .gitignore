@@ -1,0 +1,11 @@
+/libs/
+/gradle/
+/build/
+/.idea/
+/.gradle/
+/Players/build/
+/Command/build/
+/Scoreboard/
+/Spigot/build/
+/Vault/build/
+/Citizens/build/
