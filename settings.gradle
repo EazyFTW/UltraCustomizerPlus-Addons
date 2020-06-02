@@ -1,0 +1,8 @@
+rootProject.name = 'UltraCustomizer+ Addons'
+include 'Players'
+include 'Spigot'
+include 'Vault'
+include 'Citizens'
+include 'Command'
+include 'Scoreboard'
+
